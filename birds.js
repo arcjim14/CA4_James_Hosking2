@@ -1,5 +1,5 @@
 const buttons = Array.from(document.querySelectorAll('button'));
-const contentBlocks = Array.from(document.querySelectorAll('section'))
+
 
 function hide_sections(arr){
     arr.forEach(a => {
